@@ -3,4 +3,10 @@ h1{
     color: cornsilk;
     font-size: 30px;
     text-align: center;
+    text-transform: uppercase;
+}
+p{
+    background-color: crimson;
+    color: darkgray;
+    font-size: 50px;
 }
